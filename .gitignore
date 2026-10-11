@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+secret.key
+users.json
+shared_files/
+downloads/
+testfile*.txt
+.env
